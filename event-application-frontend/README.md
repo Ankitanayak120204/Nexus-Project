@@ -1,3 +1,7 @@
+Problem Statement: To check how many students of the desired college has registered for given tasks. So that the client can see the registered students of that particular college and get the idea of each students interested area.
+
+Login Password is "Admin"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
